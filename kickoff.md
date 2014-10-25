@@ -11,7 +11,7 @@ Un rapide tour de table pour se présenter. Je peux vous proposer un exercice de
 Je vous propose d’essayer un exercice [Office Hours](http://blog.factual.com/clojure-office-hours) inspiré par ce qui se fait dans la communauté Clojure.
 - Sur un tableau (ou une feuille de papier) nous créons 2 colonnes : Teachers et Students
 - Chacun prend 5 minutes pour écrire sur des postits les sujets qu’il souhaite partager, découvrir ou approfondir
-- Nous partageons ensemble le résultat de nos postits en les classant dans l’un ou l’autre colonne
+- Nous partageons ensemble le résultat de nos postits en les classant dans l’une ou l’autre colonne
 
 Cela nous permet de prendre conscience à la fois du savoir-faire présent dans notre groupe et des sujets qu’il serait intéressant de partager.
 
