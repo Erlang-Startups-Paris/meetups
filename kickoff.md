@@ -17,4 +17,4 @@ Cela nous permet de prendre conscience à la fois du savoir-faire présent dans 
 
 ### Organisation des prochaines actions
 
-En fonction des résultats de l’office Hours, nous fixons la date de la réunion suivante et évaluons ce qu’il parait faisable d’ici là.
+En fonction des résultats de l’office Hours, nous fixons la date de la réunion suivante et évaluons ce qui parait faisable d’ici là.
