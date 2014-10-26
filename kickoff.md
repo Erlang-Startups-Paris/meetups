@@ -1,3 +1,5 @@
+# Réunion de Kickoff
+
 L’objectif du meetup n’est pas de vendre une technologie ou faire la promotion de tel ou tel outil mais bien de créer une communauté d’entraide entre des personnes qui poursuive un même but, même si nous avons tous des niveaux, des contraintes et des capacités différentes.
 
 Aussi, je vous propose de consacrer notre première rencontre à mieux nous connaitre et à nous organiser pour la suite.
