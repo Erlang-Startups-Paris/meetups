@@ -6,7 +6,7 @@ Aussi, je vous propose de consacrer notre première rencontre à mieux nous conn
 
 ### Présentation
 
-Un rapide tour de table pour se présenter. Je peux vous proposer un exercice de Ice Breaker si cela nous parait pertinent et utile.
+Un rapide tour de table pour se présenter. 
 
 ### Office Hours
 
