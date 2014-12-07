@@ -23,9 +23,9 @@ En fonction des résultats de l’office Hours, nous fixons la date de la réuni
 
 # Compte rendu
 
-Nous étions 6 personnes présentent pour ce premier meetup.
+Nous étions 6 personnes présentes pour ce premier meetup.
 
-A 19h00 la conférence Sea Beyond qui nous hébergeait venait tout juste de se terminer. Les organisateurs de la conférence nous ont invité à nous joindre à leur cocktail de cloture, qui du coup était aussi notre cocktail de bienvenue. Encore merci Mickaël pour votre acceuil :-)
+A 19h00 la conférence [Sea Beyond](https://www.process-one.net/seabeyond/) venait tout juste de se terminer. Les organisateurs nous ont invité à nous joindre à leur cocktail de cloture, qui du coup était aussi notre cocktail de bienvenue. Encore merci [Mickaël](http://www.meetup.com/Erlang-startups-Paris/members/9281379/) pour votre acceuil :-)
 
 
 Puis nous nous sommes isolé du reste du groupe pour mener notre exercice Office Hours.
