@@ -1,4 +1,4 @@
-# Bienvenu!
+# Bienvenue!
 
 Ce repository est le hub d’échange d’informations dans la communauté. Il est le support de nos échanges d’information entre les  sessions [meetups](http://www.meetup.com/Erlang-startups-Paris/).
 
