@@ -1,1 +1,1 @@
- - [Kickoff](kickoff.md) du jeudi 4 décembre 2014
+ Comptes rendus des réunions passées, et agenda des réunions à venir.
